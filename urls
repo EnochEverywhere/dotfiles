@@ -1,0 +1,318 @@
+"query:The Pride of the League:tags # \"Rabbitohs\""
+"query:NRL Teams:tags # \"NRLTeams\""
+"query:Super League Teams:tags # \"SuperLeague\""
+"query:NRL News:tags # \"NRLNews\""
+"query:Youtube:tags # \"Youtube\""
+"query:Super League News:tags # \"SuperLeagueNews\""
+"query:News:tags # \"News\""
+"query:Aus News:tags # \"AusNews\""
+"query:Twitter:tags # \"Twitter\""
+"query:Twitter People:tags # \"TwitterPeople\""
+"query:Instagram:tags # \"Instagram\""
+
+
+"query:Unread:unread = \"yes\""
+
+---------------
+-----news------
+---------------
+
+http://www.dailytelegraph.com.au/news/nsw/rss "~Daily Telegraph" "AusNews"
+https://www.news.com.au/feed/ "~News.com.au" "News" "AusNews"
+https://www.smh.com.au/rss/national/nsw.xml "~SMH" "News" "AusNews"
+http://www.sbs.com.au/news/rss/Section/Top+Stories "~SBS" "News" "AusNews"
+https://www.9news.com.au/rss "~9 News" "News" "AusNews"
+https://moxie.foxnews.com/feedburner/national.xml "~Fox News National" "News" "Yankee News"
+https://moxie.foxnews.com/feedburner/world.xml "~Fox News World" "News" "Yankee News"
+https://moxie.foxnews.com/feedburner/politics.xml "~Fox News Politics" "Yankee News"
+https://feeds.feedburner.com/breitbart "~Breibart" "Yankee News"
+https://www.theguardian.com/australia-news/australian-politics/rss "~Guardian AU" "News" "AusNews"
+https://www.theguardian.com/politics/rss "~Guardian UK" "News" "UK"
+http://feeds.bbci.co.uk/news/rss.xml "~BBC Top" "News" "UK"
+http://feeds.bbci.co.uk/news/world/rss.xml "~BBC World" "News" "UK"
+http://feeds.bbci.co.uk/news/uk/rss.xml "~BBC UK" "News" "UK"
+http://feeds.bbci.co.uk/news/politics/rss.xml "~BBC Politics" "News" "UK"
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml "~New York Times" "News" "Yankee News"
+https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml "~New York Times Politics" "News" "Yankee News"
+http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2 "~ Wapo Politics" "News" "Yankee News"
+http://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_36 "~Wapo News" "News" "Yankee News"
+https://rss.cbc.ca/lineup/topstories.xml "~CBC News" "News"
+https://www.abc.net.au/news/feed/51120/rss.xml "~ABC" "News" "AusNews"
+https://www.infowars.com/rss.xml "~Infowars" "News"
+https://www.phoronix.com/rss.php "~Phoronix" "Tech"
+https://ukraineobservatory.org/feed "~Ukraine Observatory💮" "News" "Lotus Eaters"
+
+-----------------
+-------Sport-----
+-----------------
+
+https://www.abc.net.au/news/feed/2942460/rss.xml "~Grandstand" "Sport News"
+http://www.wwos.nine.com.au/rss "~9 Sport" "Sport News"
+https://www.foxsports.com.au/content-feeds/rugby-league "~Fox League" "NRLNews" "Sport News"
+https://www.foxsports.com.au/content-feeds/rugby-union "~Fox Rugby" "Sport News"
+https://www.smh.com.au/rss/sport.xml "~SMH Sport" "~Sport News"
+https://www.smh.com.au/rss/sport/nrl.xml "~SMH League" "Sport News" "NRLNews"
+
+---------------
+----youtube----
+---------------
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7edjYPNhTm5LYJMT7UMt0Q "~Lotus Eaters💮" "Youtube" "Lotus Eaters"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnw5I-wliudW8YO1vr5O4IQ "~Lotus Eaters 2💮" "Youtube" "Lotus Eaters"
+https://www.lotuseaters.com/feed/category/podcast "~Lotus Eaters Podcast💮" "Lotus Eaters"
+https://lotuseaters.com/feed/index "~Lotus Eaters Website💮" "Lotus Eaters"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDRIjKy6eZOvKtOELtTdeUA "~ Breaking Points🔥" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgEJNwVa7aEO6L1pQ0TDRYg  "~Ausie Cossak"  "Youtube" 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw "~Russel Brand" "Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuRMYwNOu3GMsH1kN9m7PLA "~Melon Charts" "Youtube" "Music"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB9e3pof1o83aa0kkaoeJGA "~It's Live" "Youtube" "Music"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A "~Mnet" "Music"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnhZuoNcL89qNax7YlWvavQ "~Mirror Ball" "Music"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChiEswqVYKOaGJKCCPCQB6Q "~Rabbitohs TV🐰" "Youtube" "Rabbitohs"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuOqvRRt9GqyIUVTwSB4Ucg "~Artosis" "Youtube" "Starcraft"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJc4xtI7H_C5GDqSb5AB57w "~Tasteless" "Youtube" "Starcraft"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVAucsCmsXmnwkZhIfB9N1w "~Zemmour Translation" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ "~Level1 Techs" "Youtube" "Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w "~Level1 Linux" "Youtube" "Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA "~Gamers Nexus" "Youtube" "Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrI6_31b1OHRE62BHTMYN0Q "~Tech Tablets" "Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q "~Jordan Peterson" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVgO39Bk5sMo66-6o6Spn6Q "~ABC News" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe02lGcO-ahAURWuxAJnjdA "~TimCast" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLwNTXWEjVd2qIHLcXxQWxA "~Tim Pool" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxcrzzhQDj5zKJbXfIscCtg "~ABC News Indepth" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA "~Fox News Youtube" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO0akufu9MOzyz3nvGIXAAw "~Sky News AU Youtube" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgFP46yVT-GG4o1TgXn-04Q "~China Uncensored" "Youtube" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_7vFlErTHxVD-IFNB-BFCg "~America Uncovered" "Youtube" "YoutubeNews" "Yankee News" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvr1DclUsRzNYXWOWJ7eVLQ "~China Unscripted" "Youtube" "YoutubeNews"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIveFvW-ARp_B_RckhweNJw "~Crowder" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzJXNzqz6VMHSNInQt_7q6w "~Megyn Kelly" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi5N_uAqApEUIlg32QzkPlg "~Bret Weinstein" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzGiDDKdphJ0GFvEd82WfYQ "~Viva Frei" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtnYSEGViOnb7k8ezUaWUww "~John Anderson" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-yewGHQbNFpDrGM0diZOLA "~Sargon" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcHJfWfZb-q7-dE4UvL4Dxw "~Explore DPRK" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLH7qUqM0PLieCVaHA7RegA "~Gad Saad" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOE55fDDW0iq0WlGJIHYzsA "~Jaimers" "Youtube" "Gaming"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTDMN4NwdZ0VVbvvjTTSqpA "~Tim Dilon clips" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCy7r6GYTGA1gpHEZfqnscQA "~Hearts of Oak" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHqC-yWZ1kri4YzwRSt6RGQ "~RSBN" "Youtube" "Yankee News"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoryWpk4QVYKFCJul9KBdyw "~Switched to Linux" "Youtube" "Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCErxT8KRQi3JJEwMCDrcHBg "~Sumo" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDOGExGCsrrt_RrGDgLuMww "~Super Rugby" "Youtube" 
+
+
+-------------------
+------Twitter------
+-------------------
+
+https://nitter.net/joerogan/rss "~Joe Rogan🐦" "Twitter"
+https://nitter.net/ConceptualJames/rss "~ James Lindsay🐦" "Twitter"
+https://nitter.net/TimJDillon/rss "~Tim Dillon🐦" "Twitter" "TwitterPeople"
+https://nitter.net/ezralevant/rss "~Ezra Levant🐦" "Twitter" "TwitterPeople"
+https://nitter.net/spectator/rss "~ The spectator🐦" "Twitter" "Twitter News"
+https://nitter.net/MaajidNawaz/rss "~Maajid Nawaz🐦" "Twitter" "TwitterPeople"
+https://nitter.net/BBCNews/rss "~BBC News UK🐦" "Twitter" "Twitter News"
+https://nitter.net/OrwellNGoode/rss "~OrwellNGoode🐦" "Twitter" "Shitposting" "TwitterPeople"
+https://nitter.net/lporiginalg/rss "~I,Hyocrite🐦" "Twitter" "Shitposting" "TwitterPeople"
+https://nitter.net/DouglasKMurray/rss "~Douglas Murray🐦" "Twitter" "TwitterPeople"
+https://nitter.net/jordanbpeterson/rss "~Jordan Peterson🐦" "Twitter" "TwitterPeople"
+https://nitter.net/lotuseaters_com/rss "~Lotus Eaters twitter🐦💮" "Twitter" "Lotus Eaters"
+https://nitter.net/DailyTelegraph/rss "~Daily Telegraph🐦" "Twitter" "Twitter News
+https://nitter.net/australian/rss "~The Australian🐦" "Twitter" "Twitter News"
+https://nitter.net/BreitbartNews/rss "~Breitbart🐦" "Twitter" "News" "Twitter News"
+https://nitter.net/telegraph_sport/rss "~Daily Telegraph Sport🐦" "Twitter" "Sport News"
+https://nitter.net/ggreenwald/rss "~Glenn Greenwald🐦" "Twitter" "TwitterPeople"
+https://nitter.net/mtaibbi/rss "~Matt Taibbi🐦" "Twitter" "TwitterPeople"
+https://nitter.net/Foxnews/rss "~Fox News🐦" "Twitter" "Twitter News"
+https://nitter.net/abcnewsq/rss "~ABC New🐦s" "Twitter" "Twitter News"
+https://nitter.net/mrandyngo/rss "~Andy Ngo🐦" "Twitter"
+https://nitter.net/FOXNRL/rss "~Fox League🐦" "Twitter" "Sport News" "NRLNews"
+https://nitter.net/NRLonNine/rss "~NRL on Nine🐦" "Sport News" "NRLNews"
+https://nitter.net/ChinaUncensored/rss "~China Uncensored🐦" "Twitter" "News"
+https://nitter.net/RealTimeWWII/rss  "~WWII Real Time🐦" "Twitter"
+https://nitter.net/ColumbiaBugle/rss "~ColumbiaBugle🐦" "Twitter" "TwitterPeople"
+https://nitter.net/TuckerCarlson/rss "~Tucker🐦" "Twitter" "TwitterPeople"
+https://nitter.net/EuropeElects/rss "~Europe Elects🐦" "Twitter"
+https://nitter.net/ZemmourEnglish/rss "~Zemmour English🐦" "Twitter" "TwitterPeople"
+https://nitter.net/libsoftiktok/rss "~Libs of Tik Tok🐦" "Twitter" "TwitterPeople"
+https://nitter.net/LibertarianBlue/rss "~Allum Bokhari🐦" "Twitter" "TwitterPeople"
+https://nitter.net/LordVesconte/rss "~Lord Miles🐦" "Twitter" "TwitterPeople"
+https://nitter.net/Lotuseatersnews/rss "~Lotus Eaters Dispatches🐦" "Twitter" "News" "Lotus Eaters"
+https://nitter.net/axios/rss "~Axios🐦" "Twitter" "News"
+https://nitter.net/mtracey/rss "~Michael Tracey🐦" "Twitter" "TwitterPeople"
+https://nitter.net/prisonplanet/rss "~Paul Joseph Watson🐦" "TwitterPeople"
+https://nitter.net/Maximebernier/rss "~Maxime Bernier🐦" "Politicians"
+https://nitter.net/albomp/rss "~Albo" "Twitter" "Politicians"
+https://nitter.net/scottMorrisonmp/rss "~Scott Morrison🐦" "Politicians" "Twitter"
+https://nitter.net/matteosalvinimi/rss "~Salvini🐦" "Twitter" "Politicians"
+https://nitter.net/ZemmourEric/rss "~Zemmour🐦" "Twitter" "Politicians"
+https://nitter.net/smh/rss "~SMH🐦" "Twitter" "AusNews" "News"
+
+---------------------
+------RugbyLeague---
+---------------------
+
+https://nitter.net/nrl/rss "~NRL🐦" "Twitter" "Sport News" "NRLNews"
+https://nitter.net/Superleague/rss "~Super League🐦" "Sport News" "Twitter"
+https://reddit.com/r/nrl/new.rss "~R NRL"  "NRLNews"
+https://reddit.com/r/superleague/new.rss "~R Superleague" 
+https://nitter.net/fanfoxleague/rss "~The Fan🐦"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC33-OkQ6VCYk8xtml8Pk4-g "~NRL Youtube" "Youtube" "NRLYoutube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBVrn_SGKAOv3yKPi4Oc3-A "~NRL On Nine Youtube" "Youtube" "NRLYoutube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4uG6XoaVfbDgv6eKq4kkfg "~Fox League" "Youtube" "NRLYoutube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNISecCss66Vrr7eF3Kqpfw "~Offical Youtube🐇" "Youtube" "NRLYoutube" "Rabbitohs"
+https://www.loverugbyleague.com/feed "~Love Rugby League" "SuperLeagueNews"
+https://www.totalrl.com/feed/ "~Total RL" "SuperLeagueNews"
+https://www.seriousaboutrl.com/feed/ "~Serious About RL" "SuperLeagueNews"
+https://nitter.net/SkySportsRL/rss "~SkyRL🐦" "Twitter" "SuperLeagueNews"
+https://nitter.net/leagueexpress/rss "~League Express" "SuperLeagueNews"
+https://politepol.com/fd/jrUuHMoR0TnN "~Offical site🐇" "Rabbitohs"
+https://politepol.com/fd/yFLzmYXa3w3R "~NRL Offical" "NRLNews"
+https://politepol.com/fd/jbKXKQoMgUhb "~NRL Offical2" "NRLNews"
+https://nitter.net/nrlphysio/rss "~NRL Physio🐦" "Twitter" 
+
+-------------------
+-----NRLjournos----
+-------------------
+
+https://nitter.net/brentread_7/rss "~Brent Read🐦" "Twitter" "NRLNews" "NRL Jounro"
+https://nitter.net/ZacBailey14/rss "~ZacBailey🐦" "Twitter" "NRLNews" "NRL Jounro"
+https://nitter.net/MCarayannis/rss "~Carayannis🐦" "Twitter" "NRLNews" "NRL Jounro"
+https://nitter.net/mrchrisnico/rss "~Nicolussi🐦" "Twitter" "NRLNews" "NRL Jounro"
+https://nitter.net/BulldogRitchie/rss "~Dean Ritchie🐦" "Twitter" "NRL Jounro" "NRLNews"
+
+-------------------
+------NRLTEAMS----
+-------------------
+https://nitter.net/SSFCRABBITOHS/rss "~Rabbitohs🐦🐰" "Twitter" "Rabbitohs" "NRLTeams" "Rabbitohs"
+https://nitter.net/NRL_Bulldogs/rss "~Bulldogs🐕" "NRLTeams"
+https://nitter.net/nthqldcowboys/rss "~Cowboys🤠" "NRLTeams"
+https://nitter.net/brisbanebroncos/rss "~Broncos🐎" "NRLTeams"
+https://nitter.net/WestsTigers/rss "~Wests Tigers🐯" "NRLTeams"
+https://nitter.net/NZWarriors/rss "~NZ Warriors🔵🟢🔴" "NRLTeams"
+https://nitter.net/NRL_Dragons/rss "~Dragons🐉 " "NRLTeams"
+https://nitter.net/RaidersCanberra/rss "~Raiders🟢" "NRLTeams"
+https://nitter.net/cronullasharks/rss "~Sharks🦈" "NRLTeams"
+https://nitter.net/GCTitans/rss "~Titans⚔️" "NRLTeams"
+https://nitter.net/NRLKnights/rss "~Knights♞" "NRLTeams"
+https://nitter.net/theparraeels/rss "~Eeels🔵🟡" "NRLTeams"
+https://nitter.net/seaeagles/rss "~Sea Eagles🦅" "NRLTeams"
+https://nitter.net/Penrithpanthers/rss "~Panthers🐱" "NRLTeams"
+https://nitter.net/storm/rss "~Storm⛈" "NRLTeams"
+https://nitter.net/dolphinsnrl/rss "~Dolphins🐬" "NRLTeams" 
+
+-------------------
+--------Asia-------
+-------------------
+
+https://nitter.net/YonhapNews/rss "~Yonhap" "KR"
+https://nitter.net/nknewsorg/rss "~NK News" "KR"
+https://www.japantimes.co.jp/feed/topstories/ "~Japan Times"
+https://nitter.net/JoongAngDaily/rss "~JoongAangDaily" "KR"
+https://www.38north.org/feed/ "~38 North" "KR"
+http://www.koreaherald.com/common/rss_xml.php?ct=102 "~Korea Times" "KR"
+https://politepol.com/fd/GfwjjJP1p6ST "~KCNA" "KR"
+
+
+-----------------------
+---SuperLeagueTeams--
+-----------------------
+
+https://nitter.net/WiganWarriorsRL/rss "~Warriors🍒" "SuperLeague"
+https://nitter.net/warringtonrlfc/rss "~Wolves🐺" "SuperLeague"
+https://nitter.net/Wtrinityrl/rss "~Trinity⚜" "SuperLeague"
+https://nitter.net/TOXIII/rss "~Toulouse🔵⚪" "SuperLeague"
+https://nitter.net/Saints1890/rss "~St Helens🔴⚪" "SuperLeague"
+https://nitter.net/salforddevils/rss "~Red Devils👹" "SuperLeague"
+https://nitter.net/leedsrhinos/rss "~Rhinos🦏" "SuperLeague"
+https://nitter.net/hullkrofficial/rss "~Hull KR🐤" "SuperLeague"
+https://nitter.net/hullfcofficial/rss "~Hull FC⚫⚪" "SuperLeague"
+https://nitter.net/GiantsRL/rss "~Giants🗿" "SuperLeague"
+https://nitter.net/dragonsofficiel/rss "~Le Dragons🐉" "SuperLeague"
+https://nitter.net/CTRLFC/rss "~Tigers🐅" "SuperLeague"
+
+-------------------
+-------Gaming-----
+-------------------
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN44pEoNDY8J-gLzYkjuWIA "~Messatsu!" "Youtube" "Street Fighter" "Gaming"
+https://nitter.net/StreetFighter/rss "~Street Fighter🐦" "Twitter" "Gaming"
+https://nitter.net/CapcomFighters/rss "~CapcomFighters🐦" "Twitter" "Gaming"
+https://reddit.com/r/streetfighter/hot.rss "~R Street Figtter" "Gaming" "Street Fighter"
+
+---------------------
+------Instagram-----
+--------------------
+https://bibliogram.pussthecat.org/u/carlbenjamin100/rss.xml "~Sargon📷" "Instagram"
+https://bibliogram.pussthecat.org/u/donaldjtrumpjr/rss.xml "~Donald Jr📷" "Instagram"
+https://bibliogram.pussthecat.org/u/kyungk1ng/rss.xml "~kyungk1ng📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/jihea_a/rss.xml "~jihea📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/nknewsorg/rss.xml "~Nk News📷" "KR" "Instagram"
+https://bibliogram.pussthecat.org/u/dprk360/rss.xml "~DPRK 360📷" "KR" "Instagram"
+https://bibliogram.pussthecat.org/u/rockin_hj/rss.xml "~Rockin HJ📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/nakkkyung/rss.xml "~nakkkyung📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/eun_som_ing/rss.xml "~Eun Som📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/wha._.nu/rss.xml "~Wha Nu📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/yogini_ciela/rss.xml "~Yogni Ciela📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/luvbinne/rss.xml "~luvbinee📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/nyong2ya/rss.xml "~ Brave Girls Min Young📷" "Instagram"
+https://bibliogram.pussthecat.org/u/bg_eunji92/rss.xml "~Brave Girls EunJi📷" "Instagram"
+https://bibliogram.pussthecat.org/u/braveg_yj/rss.xml "~Brave Girls Yu Jeong📷" "Instagram"
+https://bibliogram.pussthecat.org/u/verrybany/rss.xml "~Verrybany📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/hw_hobby19/rss.xml "~Hw Hobby19📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/seo_hsss/rss.xml "~Seo hss📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/sara.co.k/rss.xml "~Sara Co K📷" "Thots" "Instagram"
+https://bibliogram.pussthecat.org/u/hobojordo/rss.xml "~Hobo Jordo📷" "Instagram"
+https://bibliogram.pussthecat.org/u/yulyulk/rss.xml "~Yuri📷" "Instagram"
+https://bibliogram.pussthecat.org/u/actorleeminho/rss.xml "~Lee Min Ho📷" "Instagram"
+https://bibliogram.pussthecat.org/u/wdohwan/rss.xml "~Woo Do Hwan📷" "Instagram"
+https://bibliogram.pussthecat.org/u/dprktoday/rss.xml "~DPRK Today📷" "Instagram"
+https://bibliogram.pussthecat.org/u/douglaskmurray/rss.xml "~Douglas Murray📷" "Instagram"
+https://bibliogram.pussthecat.org/u/leeseunggi.official/rss.xml "~ Lee Seung Gi📷" "Instagram"
+https://bibliogram.pussthecat.org/u/ssfcrabbitohs/rss.xml "~Rabbitohs📷🐰" "Rabbitohs" "Instagram"
+https://bibliogram.pussthecat.org/u/nrl/rss.xml "~NRL📷" "Instagram"
+https://bibliogram.pussthecat.org/u/ajohns74/rss.xml "~The 8th📷" "Instagram"
+https://bibliogram.pussthecat.org/u/royalcollectiontrust/rss.xml "~Royal Collection Trust📷" "Instagram"
+https://bibliogram.pussthecat.org/u/ericzemmour_/rss.xml "~Eric Zemmour📷" "Instagram"
+https://bibliogram.pussthecat.org/u/ttmik/rss.xml "~TMIK📷" "Instagram"
+https://bibliogram.pussthecat.org/u/daily.gondor/rss.xml "~The Daily Gondor📷" "Shitposting" "Instagram"
+https://bibliogram.pussthecat.org/u/armormuseum/rss.xml "~Armor Museum New York📷" "WWII" "Instagram"
+https://bibliogram.pussthecat.org/u/worldwar2historypics/rss.xml "~WWII History Pics📷" "WWII" "Instagram"
+https://bibliogram.pussthecat.org/u/ww2dailyhistory/rss.xml "~WWII Daily History📷" "WWII" "Instagram"
+https://bibliogram.pussthecat.org/u/wwii_pictures/rss.xml "~WII Pictures📷" "WWII" "Instagram"
+https://bibliogram.pussthecat.org/u/the_ww2_memoirs/rss.xml "~WWII Memoris📷" "WWII" "Instagram"
+
+--------------------
+------Substack------
+--------------------
+
+https://alexberenson.substack.com/feed "~Alex Berenson" "Substack"
+https://mtracey.substack.com/feed "~Michael Tracy" "Substack"
+https://greenwald.substack.com/feed "~Glenn greenwald" "Substack"
+https://taibbi.substack.com/feed "~Matt Taibbi" "Substack"
+
+--------------------
+------Parliment-----
+--------------------
+
+-Senate-
+
+https://rssfeeds.aph.gov.au/senate/sds.xml "~Senate Daily Summary"
+https://rssfeeds.aph.gov.au/senate/new_inquiries.xml "~New Senate Committee Inquiries"
+https://rssfeeds.aph.gov.au/senate/reports.xml "~Senate Committee Reports Tabled"
+https://rssfeeds.aph.gov.au/senate/red.xml "~Today's Senate Committee Hearings"
+https://rssfeeds.aph.gov.au/senate/upcoming_hearings.xml "~Upcoming Senate Committee Hearings"
+-House-
+https://www.aph.gov.au/house/rss/daily_program "~Daily Program"
+https://www.aph.gov.au/house/rss/media_releases "~Media Releases"
+https://www.aph.gov.au/house/rss/house_inquiries "~House Inquiries"
+https://www.aph.gov.au/house/rss/joint_inquiries "~Joint Inquiries"
+
+-------------------
+------Misc---------
+-------------------
+
+https://www.ozbargain.com.au/deals/feed "~OZ Bargin"
+http://feeds.libsyn.com/65366/rss "~WWII Podcast" "WWII"

@@ -1,0 +1,65 @@
+color listnormal default default
+color listfocus default default standout bold
+color listnormal_unread default default
+color listfocus_unread default default bold
+color info default default bold
+color article default default
+
+# unbind keys
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+
+# bind keys - vim style
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+bind-key G end
+bind-key g home
+
+browser brave-browser
+macro , open-in-browser
+macro m set browser "setsid nohup mpv"; open-in-browser ; set browser brave-browser
+macro p set browser  "mpv"; open-in-browser ; set browser brave-browser
+macro l set browser "links2"; open-in-browser ; set browser brave-browser 
+macro f set browser "feh"; open-in-browser ; set browser brave-browser
+macro y set browser "yt-dlp"; open-in-browser ; set browser brave-browser 
+
+
+
+articlelist-format "%4i %f %D  %?T?|%-17T|  ?%t"   
+
+reload-threads 100
+
+ignore-article "*" "title =~ \"NRLW\""
+ignore-article "*" "title =~ \"\\#NRLW\""
+ignore-article "*" "title =~ \"Aleague\""
+ignore-article "https://reddit.com/r/nrl/new.rss" "title =~ \"Thread\""
+ignore-article "*" "title =~ \"SuperCoach\""
+ignore-article "*" "title =~ \"Fantasy\""
+ignore-article "*" "title =~ \"LGBT\""
+ignore-article "*" "title =~ \"\\#LGBT\""
+ignore-article "*" "title =~ \"KOF\""
+ignore-article "*" "title =~ \"HERSDAY\""
+ignore-article "https://politepol.com/fd/yFLzmYXa3w3R" "title =~ \"Women\""
+ignore-article "https://politepol.com/fd/jbKXKQoMgUhb" "title =~ \"Woman\""
+ignore-article "https://politepol.com/fd/jbKXKQoMgUhb" "title =~ \"Women\""
+ignore-article "https://www.smh.com.au/rss/sport/nrl.xml" "title =~ \"Women\""
+ignore-article "*" "title =~ \"Sergis\""
+ignore-article "*" "content =~ \"NRLW\""
+ignore-article "*" "content =~ \"\\#NRLW\""
+ignore-article "*" "title =~ \"Tasha Gale\""
+ignore-article "*" "content =~ \"\\Tasha Gale\""
+ignore-article "*" "title =~ \"AFLW\""
+ignore-article "*" "content =~ \"\\#AFW\""
+
+
+
+
+
+download-path "~/Downloads/%h/%n"
+download-filename-format "%F-%t.%e"
+player "mocp"
+podlist-format "%i %u %-20S %F"
